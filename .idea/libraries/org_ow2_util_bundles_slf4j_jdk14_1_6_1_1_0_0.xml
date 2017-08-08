@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.ow2.util.bundles:slf4j-jdk14-1.6.1:1.0.0" type="repository">
+    <properties maven-id="org.ow2.util.bundles:slf4j-jdk14-1.6.1:1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-jdk14-1.6.1-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-jdk14-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
